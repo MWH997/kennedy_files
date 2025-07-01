@@ -1,0 +1,24 @@
+{
+  "doc_id": "104-10051-10170.pdf",
+  "summary": "The document describes the '201 System', utilized by the Operations Directorate to manage information on individuals of specific interest. It covers the lifecycle of a 201 dossier from creation to cancellation, including criteria for dossier initiation, content management, and access restrictions. The system facilitates the generation of machine listings for operational purposes, tailored by various identifiers such as OI codes, citizenship, and occupation.",
+  "key_findings": [
+    "The 201 system is a specialized tool for monitoring individuals relevant to operational interests, including those under counterintelligence investigation, potential agents, and members of targeted organizations.",
+    "Unique 201 numbers are assigned to each individual for precise identification and efficient file management.",
+    "Machine listings are a key feature, enabling operational use by filtering data based on specific criteria like OI codes, citizenship, and occupation.",
+    "Sensitive dossiers are subject to access restrictions, with defined protocols for content purging and maintenance to ensure information security.",
+    "Automatic dossier creation is implemented for predefined categories, such as diplomats and intelligence officers from certain nations, streamlining the tracking process."
+  ],
+  "keywords": [
+    "201 System",
+    "Operations Directorate",
+    "201 Dossier",
+    "Operational Interest",
+    "Counterintelligence",
+    "201 Number",
+    "Machine Listings",
+    "OI Code",
+    "Dossier Maintenance",
+    "Restricted Dossiers",
+    "Automatic Dossier Openings"
+  ]
+}

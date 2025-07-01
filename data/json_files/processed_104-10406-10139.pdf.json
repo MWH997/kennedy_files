@@ -1,0 +1,25 @@
+{
+  "doc_id": "104-10406-10139.pdf",
+  "summary": "The document details the 201 system, utilized by the Operations Directorate for managing information on individuals of specific interest. It describes the system's components, such as unique 201 numbers for file identification, OI codes for categorizing individuals by their operational relevance, and the creation and maintenance of 201 dossiers. Additionally, it outlines the procedures for dossier management, including opening, maintaining, and purging, alongside the production of machine listings for operational tracking.",
+  "key_findings": [
+    "The 201 system is tailored for individuals of specific interest, including those under CI investigation, prospective agents, and members of target groups.",
+    "Unique 201 numbers are assigned to individuals for file identification and are used in all subsequent reporting.",
+    "OI codes categorize individuals based on their association with organizations or activities of operational interest.",
+    "Detailed procedures for the lifecycle of 201 dossiers—opening, maintaining, and purging—are provided, with a focus on operational relevance and security.",
+    "Machine listings are generated to facilitate the operational tracking of individuals, available in standard and non-standard formats depending on selection criteria."
+  ],
+  "keywords": [
+    "OI codes",
+    "machine listings",
+    "security procedures",
+    "file maintenance",
+    "201 system",
+    "Operations Directorate",
+    "prospective agents",
+    "201 dossier",
+    "201 number",
+    "target groups",
+    "CI investigation",
+    "operational interest"
+  ]
+}

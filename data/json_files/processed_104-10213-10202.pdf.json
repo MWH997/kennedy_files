@@ -1,0 +1,28 @@
+{
+  "doc_id": "104-10213-10202.pdf",
+  "summary": "The document describes the '201 System', utilized by the Operations Directorate for the identification, control, and filing of information on individuals of specific operational interest. It elaborates on the system's components, such as unique 201 numbers for individual identification, the creation and management of dossiers, and the application of OI codes to link individuals with relevant organizations or activities. Additionally, it outlines the processes for initiating, updating, and terminating 201 dossiers, alongside the generation of machine listings tailored to operational requirements.",
+  "key_findings": [
+    "The 201 System is a structured approach for monitoring individuals deemed of operational interest, encompassing potential agents, members of targeted organizations, and those subjects of significant reporting.",
+    "Unique 201 numbers are pivotal for identifying and organizing information on individuals within the system.",
+    "OI codes facilitate the classification of individuals according to their affiliations with specific organizations or activities, aiding in the creation of focused listings.",
+    "Comprehensive guidelines are provided for the lifecycle of 201 dossiers, from creation to cancellation, with a strong emphasis on security and operational pertinence.",
+    "Machine listings, customizable by criteria such as OI codes, citizenship, and occupation, are produced to meet diverse operational demands."
+  ],
+  "keywords": [
+    "201 System",
+    "Operations Directorate",
+    "Intelligence Services",
+    "Security Service",
+    "201 Dossier",
+    "201 Number",
+    "Machine Listings",
+    "Operational Interest",
+    "Counterintelligence",
+    "Dossier Maintenance",
+    "Automated Index Section",
+    "Restricted Dossiers",
+    "Dossier Cancellation",
+    "OI Code",
+    "Master 201 Record"
+  ]
+}

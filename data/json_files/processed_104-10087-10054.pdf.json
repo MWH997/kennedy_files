@@ -1,0 +1,23 @@
+{
+  "doc_id": "104-10087-10054.pdf",
+  "summary": "The document describes the 201 system, utilized by the Operations Directorate for managing information on individuals of specific interest through the creation, maintenance, and control of dossiers. These dossiers are assigned unique 201 numbers and contain details on individuals under investigation, prospective agents, members of target organizations, or those with significant correspondence. The system supports the generation of machine listings based on criteria like OI codes, citizenship, and occupation, with access restricted to authorized personnel. It also introduces IDN numbers for individuals of interest not yet requiring a full dossier.",
+  "key_findings": [
+    "Unique 201 numbers are assigned to individuals for identification within the system.",
+    "Dossiers are created for individuals of operational interest, including those under investigation, potential agents, and members of targeted groups.",
+    "Machine listings can be produced using various criteria, enhancing information retrieval and analysis.",
+    "Access to sensitive dossiers is strictly controlled, with defined procedures for file maintenance and purging.",
+    "IDN numbers serve as identifiers for individuals of interest who do not yet qualify for a full 201 dossier."
+  ],
+  "keywords": [
+    "201 number",
+    "201 system",
+    "OI code",
+    "dossier",
+    "machine listings",
+    "maintenance procedures",
+    "IDN number",
+    "purging",
+    "Operations Directorate",
+    "restricted access"
+  ]
+}

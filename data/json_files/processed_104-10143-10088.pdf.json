@@ -1,0 +1,23 @@
+{
+  "doc_id": "104-10143-10088.pdf",
+  "summary": "The document provides a detailed overview of the '201 System', a structured approach for managing information on individuals of specific operational interest. It explains the system's components, such as the 201 Number for identification, the 201 Dossier for storing detailed information, and the Master 201 Record for efficient indexing and retrieval. The document also outlines the procedures for opening, maintaining, and canceling 201 dossiers, with a strong emphasis on the security and confidentiality of the information. Additionally, it describes the capability to generate machine listings based on various criteria to aid in targeted information retrieval.",
+  "key_findings": [
+    "The 201 System is utilized for managing information on individuals of operational interest, including potential agents, members of target organizations, and subjects with extensive reporting.",
+    "Essential components of the system include the 201 Number, the 201 Dossier, and the Master 201 Record, each serving a specific function in the information management process.",
+    "Opening a 201 dossier requires coordination among operational components and justification based on the individual's relevance to current operations.",
+    "Security measures for 201 dossiers include strict access restrictions, purging procedures, and guidelines for handling sensitive documents to ensure confidentiality.",
+    "Machine listings can be produced based on criteria like name, citizenship, occupation, and operational interest codes, enhancing the efficiency of information retrieval."
+  ],
+  "keywords": [
+    "201 System",
+    "Security Approvals",
+    "Sensitive Information",
+    "Access Restrictions",
+    "Purging Procedures",
+    "Operational Interest",
+    "Machine Listings",
+    "Master 201 Record",
+    "Counterintelligence",
+    "201 Dossier"
+  ]
+}

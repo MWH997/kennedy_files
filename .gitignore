@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# dotenv environment variables file
+.env
+.env.*
+
+# Streamlit config
+.streamlit/
+
+# Whoosh index directory
+whoosh_index/
+
+# Data files (JSON and previews)
+# /data/json_files/
+# /data/preview/
+
+# MacOS files
+.DS_Store
+
+# Logs and SQLite
+*.log
+*.sqlite3

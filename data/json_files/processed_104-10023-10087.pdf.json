@@ -1,0 +1,27 @@
+{
+  "doc_id": "104-10023-10087.pdf",
+  "summary": "The document is a classified annex from the CIA's Operations Directorate, detailing the '201 System' used for identifying, controlling, and filing information on individuals of specific interest. It outlines procedures for opening, maintaining, and purging 201 dossiers, including the assignment of unique 201 numbers, the contents of dossiers, and the handling of sensitive or restricted information. The system also supports the production of machine listings for operational use.",
+  "key_findings": [
+    "The 201 system is designed for managing information on individuals of operational interest, including prospective agents, sources, and members of target organizations.",
+    "Unique 201 numbers are assigned to individuals for file identification and control.",
+    "Dossiers contain biographic information, operational approvals, and other relevant data, with strict procedures for purging and maintaining files.",
+    "Special handling is required for sensitive or restricted dossiers, including access controls and notification procedures.",
+    "The system supports the generation of standard and non-standard machine listings for operational purposes, with safeguards for sensitive information."
+  ],
+  "keywords": [
+    "Form 831",
+    "purging procedures",
+    "sensitive information",
+    "201 Dossier",
+    "operational approvals",
+    "access controls",
+    "biographic information",
+    "machine listings",
+    "201 System",
+    "restricted dossiers",
+    "201 Number",
+    "OI codes",
+    "CIA",
+    "Operations Directorate"
+  ]
+}
